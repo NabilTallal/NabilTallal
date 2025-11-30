@@ -2,7 +2,7 @@
 Hi! I'm **Nabil Tallal**, a final-year Computer Science student and Full-Stack Developer.  
 I love building modern web applications and exploring machine learning & data analytics.  
 
-I enjoy creating projects that solve real-world problems—from chat apps to data visualization tools.  
+I enjoy creating projects that solve real-world problems, from chat apps to data visualization tools.  
 I’m always learning new technologies to expand my skillset.  
 
 ---
