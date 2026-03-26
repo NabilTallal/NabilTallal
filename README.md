@@ -12,7 +12,7 @@
 
 Hi, I'm **Nabil Tallal** a final-year Computer Science student and Full-Stack Developer based in **Debrecen, Hungary**.
 
-I love building modern, production-ready web applications and diving into machine learning and data analytics. My goal is to create software that solves real-world problems, from real-time communication platforms to intelligent data pipelines.
+I love building modern, production-ready web applications and diving into machine learning and data analytics. My goal is to create clean software that solves real-world problems, from real-time communication platforms to intelligent data pipelines.
 ```text
 🎓  CS BSc @ University of Debrecen (Final Year)
 💼  Open to internships, collaborations & exciting projects
