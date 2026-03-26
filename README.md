@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nabil%20Tallal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20CS%20Student%20%7C%20Open%20For%20Work&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6b2e,50:2ecc71,100:1a6b2e&height=180&section=header&text=Nabil%20Tallal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20CS%20Student%20%7C%20Open%20For%20Work&descAlignY=55&descSize=16"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Data+Analysis+Explorer;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
@@ -143,7 +143,5 @@ I'm currently in my final year and actively looking for **internships, junior ro
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6b2e,50:2ecc71,100:1a6b2e&height=100&section=footer"/>
 </div>
